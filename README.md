@@ -3,6 +3,7 @@
 
 #### Comandos usados nesse repositório:
 
+```
 `$ git init`
 `$ git add README.md`
 `$ git commit -m 'primeiro commit'`
@@ -17,4 +18,4 @@
 `$ git push origin funcionalidade1`
 `$ ssh -T git@github.com`
 `$ git push origin funcionalidade1`
-
+```
